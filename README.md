@@ -51,3 +51,4 @@ Here's a walkthrough of implemented user stories:
 * [X] [CircleImageView](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android
 * [X] [Butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
 * [X] [Facebook Style Slide Menu In Android](http://www.oodlestechnologies.com/blogs/Facebook-Style-Slide-Menu-In-Android) 
+# InstaHire
